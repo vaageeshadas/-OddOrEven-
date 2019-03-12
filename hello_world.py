@@ -6,7 +6,7 @@ try:
 except ValueError:
     print("That's not proper!")
     quit()
-    sys.exit()
+
 
 if savedNum == 2:
     print("That's 2!")
